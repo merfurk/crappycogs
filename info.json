@@ -1,1 +1,7 @@
-
+{
+	"author" : ["Ash (Ash V.#6020)"],
+	"install_msg" : "Thanks for installing my repo, if you have any problem, or if you want to improve my cogs, feel free to use issue or pull requests !",
+	"name" : "Ash - crappy_cogs",
+	"short" : "Miscellaneous cogs",
+	"description" : "Learning to make cogs, for weird useless purposes."
+}
