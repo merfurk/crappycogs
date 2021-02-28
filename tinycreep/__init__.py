@@ -1,4 +1,4 @@
-from .mycog import tinycreep
+from .tinycreep import tinycreep
 
 
 def setup(bot):
