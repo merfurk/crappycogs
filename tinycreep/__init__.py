@@ -2,4 +2,4 @@ from .tinycreep import Tinycreep
 
 
 def setup(bot):
-    bot.add_cog(tinycreep())
+    bot.add_cog(Tinycreep())
