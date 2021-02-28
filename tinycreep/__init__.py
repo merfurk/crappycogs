@@ -1,4 +1,4 @@
-from .tinycreep import tinycreep
+from .tinycreep import Tinycreep
 
 
 def setup(bot):
