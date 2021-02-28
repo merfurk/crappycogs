@@ -1,6 +1,6 @@
 from redbot.core import commands
 
-class tinycreep(commands.Cog):
+class Tinycreep(commands.Cog):
     """My custom cog"""
 
     @commands.command()
