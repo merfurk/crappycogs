@@ -7,4 +7,4 @@ class Tinycreep(commands.Cog):
     async def mycom(self, ctx):
         """This does stuff!"""
         # Your code will go heree
-        await ctx.send("I can do stuff!")
+        await ctx.send("Hello World!")
