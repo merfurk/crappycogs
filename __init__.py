@@ -1,5 +1,5 @@
-from .mycog import Mycog
+from .mycog import tinycreep
 
 
 def setup(bot):
-    bot.add_cog(Mycog())
+    bot.add_cog(tinycreep())
